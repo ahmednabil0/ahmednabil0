@@ -24,4 +24,3 @@ Skills: DART / FLUTTER UI / FIREBASE / SQFLITE / GOOGLE MAPS / PROVIDER / GET X 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ahmednabil0)  
 
-![Profile views](https://gpvc.arturio.dev/ahmednabil0)  
