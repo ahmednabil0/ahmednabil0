@@ -4,7 +4,18 @@
 
 i am junior flutter developer with 7 months exp , passionate about mobile programming, developed about 5 complete apps 
 
-Skills: DART / FLUTTER UI / FIREBASE / SQFLITE / GOOGLE MAPS / PROVIDER / GET X / ANIMATIONS / REST API / 
+Skills: 
+* DART (OOP) 
+* FLUTTER UI 
+* FIREBASE 
+* SQFLITE 
+* GOOGLE MAPS 
+* PROVIDER
+* GET X 
+* ANIMATIONS 
+* REST API 
+* LOCAL DATA BASE Packages
+ 
 
 - 🔭 I’m currently working on Gridea 
 - 🌱 I’m currently learning BLOC 
