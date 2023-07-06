@@ -2,19 +2,35 @@
 #### I am Flutter developer
 ![I am Flutter developer](https://th.bing.com/th/id/OIP.kwSme5sLnXytqIPL5I3ILwHaEt?pid=ImgDet&rs=1)
 
-i am junior flutter developer with 7 months exp , passionate about mobile programming, developed about 5 complete apps 
+Junior Software engineer passionate about Mobile Programming with 8 month 
+experience in mobile development (Flutter). 
+
+EXPERIENCE:
+* Flutter developer intern | Gridea 
+   MAY 2022 TO OCT 2022
+   Developed 3 apps with complex functionality and developed the application using the ( 
+   getx , provider ) design pattern
+* flutter developer | freelance
+   JAN 2023 TO FEB 2023 (ROB3 GRAM APP)
+   Responsible for the development and maintenance of medical app with ML model
+* Junior flutter developer | lepgo
+   FEB 2023 TO JUNE 2023
+   Responsible for the development and maintenance of the company's application
+   (Lepgo) available now in google play store , soon in apple store
 
 Skills: 
 * DART (OOP) 
-* FLUTTER UI 
-* FIREBASE 
-* SQFLITE 
-* GOOGLE MAPS 
+* FLUTTER UI , advanced ui 
+* FIREBASE ( store , storage , fcm , real time data )
+* SQFLITE , hive , sharedprefrences
+* GOOGLE MAPS , geolocation 
 * PROVIDER
 * GET X 
 * ANIMATIONS 
-* REST API 
+* REST API , json 
 * LOCAL DATA BASE Packages
+* stream io
+* fcm ntification and local notification
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmednabil0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmednabil67/)  
 
